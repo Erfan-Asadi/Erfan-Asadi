@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Erfan-Asadi
-- 👀 I’m interested in programming on the website and watching soccer
 - 🌱 I’m currently learning React.js
 
 - 📫 You cand find me on Instagram ( @erfanevis )
